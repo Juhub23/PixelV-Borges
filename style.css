@@ -147,7 +147,7 @@ margin-bottom: 100px;
 
 #sobre h2{
     margin-right: 5px;
-    
+
 }
 
 #sobre p{
@@ -156,4 +156,17 @@ margin-bottom: 100px;
     text-align: justify;
     margin-top: 30px;
 
+}
+
+
+/* ----------parallax------------ */
+
+#parallax{
+    height: 250px;
+
+    background: linear-gradient(rgba(0, 0, 0, 0.26)), url(img/parallax.svg);
+
+    margin-bottom: 120px;
+    background-attachment: fixed;
+    background-size: 30%;
 }
