@@ -257,3 +257,35 @@ header img {
 #servicos .card:hover h3 {
     color: var(--verde-pixelV);
 }
+
+
+/* -------Cases------- */
+#cases h2{
+    margin-right: 5px;
+
+}
+
+
+#cases h2{
+    margin-right: 5px;
+}
+
+#cases{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+    margin-bottom: 120px;
+}
+
+#cases img{
+    height: 300px;
+    border-radius: 40px;
+}
+
+
+#meuCarrossel{
+    max-width: 1170px;
+    width: 90%;
+
+}
